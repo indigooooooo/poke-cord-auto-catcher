@@ -1,0 +1,11 @@
+- Removed five-second wait from starting, considering the following changes.
+- Added "auto-click", the only clicking you do during the script now is to throw your pokeball.
+- Added hotkeys to start script (F11) and stop script (F12).
+- Added a "safe exit" so the script cannot continue if you close the program while running the script.
+- Added Screen Info dependency, so that the application only acts within the monitor your mouse is inside of, on a multi-monitor setup.
+- Added Pynput dependency, so that the shortcuts to start and stop work, whether you are in the script window or not.
+- Made an icon for the application.
+- Changed window title from "Catch Pokémon Helper" to "PokéCord Auto Catcher vx.x.x", this will be the standard further on.
+- Changed buttons to say "Pokémon" instead of "Pokemon".
+
+- INTEND on adding icon to taskbar and window, not just file explorer
