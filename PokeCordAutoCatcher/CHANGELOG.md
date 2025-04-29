@@ -2,7 +2,7 @@
 - Made it even MORE improbable to click anything else while the script is running
 - ;p took a bit long to type after automouse would take affect, fixed this.
 
-1.2.4 changelog
+1.2.4 Changelog
 - Made it improbable to click anything else while the script is running, keyboard interference is still an issue
 
 1.2.3 Changelog
