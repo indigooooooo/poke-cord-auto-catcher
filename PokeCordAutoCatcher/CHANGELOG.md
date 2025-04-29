@@ -1,3 +1,10 @@
+1.2.3 Changelog
+- Seamlessly browse your computer while PokeCordAutoCatcher runs.
+- Fixed a bug that would make the script click and type whenever it wanted under certain conditions.
+- Removed splitting and cleaning during the pyinstaller process, seemingly worked out some pixel coordinate bugs.
+- Depending on user preferences, our original point for the mouse to click on might not hit the text input box, so we moved it over 50px.
+
+1.2.1 Changelog
 - Removed five-second wait from starting, considering the following changes.
 - Added "auto-click", the only clicking you do during the script now is to throw your pokeball.
 - Added hotkeys to start script (F11) and stop script (F12).
@@ -7,5 +14,3 @@
 - Made an icon for the application.
 - Changed window title from "Catch Pokémon Helper" to "PokéCord Auto Catcher vx.x.x", this will be the standard further on.
 - Changed buttons to say "Pokémon" instead of "Pokemon".
-
-- INTEND on adding icon to taskbar and window, not just file explorer
