@@ -8,3 +8,5 @@ Click Start Catching Pokémon, or F11 to catch Pokémon
 Click Stop Catching Pokémon, or F12 to stop catching Pokémon
 
 Thats it :)
+
+You do not need everything in the zip, just download the .exe if you want that.

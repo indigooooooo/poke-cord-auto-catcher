@@ -1,3 +1,6 @@
+1.2.4 changelog
+- Made it improbable to click anything else while the script is running, keyboard interference is still an issue
+
 1.2.3 Changelog
 - Seamlessly browse your computer while PokeCordAutoCatcher runs.
 - Fixed a bug that would make the script click and type whenever it wanted under certain conditions.
