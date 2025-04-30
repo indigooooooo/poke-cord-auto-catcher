@@ -1,3 +1,8 @@
+1.3 Changelog
+- Made it even MORE improbable to click anything else while the script is running
+- ;p took a bit long to type after automouse would take affect, lowered delay.
+- Aware of the script sometimes running twice after repeated start and stop of script, looking for a fix, just restart the application to fix.
+
 Auto Catcher for PokéMeow Discord bot
 
 ONLY WORKS WITH WINDOWS AND 1080P DISPLAYS, COMPATIBLE WITH SINGLE AND DUAL-DISPLAY SETUPS ONLY. DISCORD MUST BE MAXIMIZED. 
