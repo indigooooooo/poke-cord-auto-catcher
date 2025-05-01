@@ -10,3 +10,7 @@ ONLY WORKS WITH WINDOWS AND 1080P DISPLAYS, COMPATIBLE WITH SINGLE AND DUAL-DISP
 You do not need everything in the zip, just download the .exe if you want that.
 
 Hit the Green Code Button, click "Download ZIP"
+Extract the downloaded folder, go into the "dist" folder, and open PokéCordAutoCatcherx.x.exe
+Thats it :)
+
+Thank You Alex & Alex for testing <3
