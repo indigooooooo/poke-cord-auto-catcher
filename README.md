@@ -1,4 +1,4 @@
-1.3.1 Changelog
+1.3.2 Changelog
 - Added Box, Item, Daily, Vote, Quest, Swap, Hunt, and Catchbot buttons.
 - Right clicking on buttons with mouse icons give options to the respective button
 - Added error codes, if there was a problem with the script, it should give you info instead of just not doing anything.
