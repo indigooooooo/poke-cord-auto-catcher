@@ -1,5 +1,5 @@
 ('C:\\Users\\Tanner\\Desktop\\Coding\\Github '
- 'Shit\\PokeCordAutoCatcher\\1.3.1testing\\build\\PokeCordAutoCatcher1.3.2stable\\PYZ-00.pyz',
+ 'Shit\\PokeCordAutoCatcher\\stablecurrent\\build\\PokeCordAutoCatcher1.3.2stable\\PYZ-00.pyz',
  [('PIL',
    'C:\\Users\\Tanner\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\__init__.py',
    'PYMODULE'),
