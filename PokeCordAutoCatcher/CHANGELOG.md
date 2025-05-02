@@ -1,3 +1,11 @@
+1.3.1 Changelog
+- Added Box, Item, Daily, Vote, Quest, Swap, Hunt, and Catchbot buttons.
+- Right clicking on buttons with mouse icons give options to the respective button
+- Added error codes, if there was a problem with the script, it should give you info instead of just not doing anything.
+
+- Still looking into bug random ";p" commands after turning script on and off repeatedly
+- Looking into script running in ANY tab that has the name "discord" instead of just running inside discord.
+
 1.3 Changelog
 - Made it even MORE improbable to click anything else while the script is running
 - ;p took a bit long to type after automouse would take affect, lowered delay.
