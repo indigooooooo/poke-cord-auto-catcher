@@ -1,5 +1,14 @@
-1.3.1 Changelog
-- Added Box, Item, Daily, Vote, Quest, Swap, Hunt, and Catchbot buttons.
+1.3.3 Changelog
+- Added, and changed order of buttons in Egg menu
+- Added Lootbox, and Battle buttons
+- Changed Release Dupes button to say "Release" (personal choice, thought it looked weird in the button)
+- Rearranged all buttons
+
+- Still looking into bug random ";p" commands after turning script on and off repeatedly
+- Still looking into script running in ANY tab that has the name "discord" instead of just running inside discord. (these bug fixes may not come until all intended features are added)
+
+1.3.2 Changelog
+- Added Box, Item, Daily, Vote, Quest, Swap, Hunt, Catchbot, Release Dupe, and Egg buttons.
 - Right clicking on buttons with mouse icons give options to the respective button
 - Added error codes, if there was a problem with the script, it should give you info instead of just not doing anything.
 
@@ -16,7 +25,7 @@
 - Made it improbable to click anything else while the script is running, keyboard interference is still an issue
 
 1.2.3 Changelog
-- Seamlessly browse your computer while PokeCordAutoCatcher runs.
+- Seamlessly browse your computer while PokeCordAutoCatcher runs (in theory).
 - Fixed a bug that would make the script click and type whenever it wanted under certain conditions.
 - Removed splitting and cleaning during the pyinstaller process, seemingly worked out some pixel coordinate bugs.
 - Depending on user preferences, our original point for the mouse to click on might not hit the text input box, so we moved it over 50px.

@@ -1,10 +1,11 @@
-1.3.2 Changelog
-- Added Box, Item, Daily, Vote, Quest, Swap, Hunt, and Catchbot buttons.
-- Right clicking on buttons with mouse icons give options to the respective button
-- Added error codes, if there was a problem with the script, it should give you info instead of just not doing anything.
+1.3.3 Changelog
+- Added, and changed order of buttons in Egg menu
+- Added Lootbox, and Battle buttons
+- Changed Release Dupes button to say "Release" (personal choice, thought it looked weird in the button)
+- Rearranged all buttons
 
 - Still looking into bug random ";p" commands after turning script on and off repeatedly
-- Looking into script running in ANY tab that has the name "discord" instead of just running inside discord.
+- Still looking into script running in ANY tab that has the name "discord" instead of just running inside discord. (these bug fixes may not come until all intended features are added)
 
 Auto Catcher for PokéMeow Discord bot
 
